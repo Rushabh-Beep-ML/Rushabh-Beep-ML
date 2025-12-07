@@ -46,9 +46,6 @@ and turning curiosity into working software 🚀
 
 ---
 
-## 📌 Featured Projects  
-✨ (add links once uploaded)
-
 - **Portfolio Website** — clean personal branding site  
 - **Expense Tracker App** — organize & visualize spending  
 - **Recipe App** — simple and useful UI  
