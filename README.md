@@ -46,14 +46,6 @@ and turning curiosity into working software 🚀
 
 ---
 
-- **Portfolio Website** — clean personal branding site  
-- **Expense Tracker App** — organize & visualize spending  
-- **Recipe App** — simple and useful UI  
-- **Auth System App** — register/login, secure routing  
-- **Notes or Task App** — productivity tool  
-
-> More projects coming — I like to ship things when they feel right 😄  
-
 ---
 
 ## 📊 GitHub Stats  
